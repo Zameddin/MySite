@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    margin-left: 50px;
+    height: 50%;
+    width: 50%;
+}
+img:hover{
+    border: 5px solid yellow;
+    
+}
+
+a{
+    border: 1px dashed black;
+    text-decoration: none;
+    margin-left: 350px;
+    margin-top: 50px;
+}
+a:hover{
+    background-color: aqua;
+text-decoration: underline;
+border: 4px solid yellow;
+}
